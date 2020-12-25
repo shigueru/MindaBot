@@ -26,7 +26,9 @@ Este es el nombre del canal de Youtube desde se encuentra subido el video.
 
 ### Fecha
 
-Esta es la fecha de publicación del video en la plataforma de Youtube.
+Esta es la fecha de publicación del video en la plataforma de Youtube. La fecha tiene el siguiente formato.
+
+dd-mm-aa (dia-mes-año) incluyendo los guiones.
 
 ### Etapa
 
